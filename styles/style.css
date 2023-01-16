@@ -1,0 +1,156 @@
+.top {
+	width: 1088px;
+	margin: 0 auto;
+}
+.top-1 {
+	width: 1088px;
+	margin: 0 auto;
+}
+.top-2 {
+	width: 1088px;
+	margin: 0 auto;
+}
+.restaurant {
+	width: 90px;
+	height: 19px;
+	font-size: 14px;
+	color: #5863F8;
+	margin-top: 82px;
+	font-family: 'Poppins', sans-serif;
+}
+.explore {
+	width: 422px;
+	height: 112px;
+	font-size: 42px;
+	font-family: 'Sofia Sans Extra Condensed';
+}
+.food-div {
+	background: #F8F8F8;
+	width: 536px;
+	height: 190px;
+	display: inline-block;
+}
+.desert-div {
+	background: #BE2B2B;
+	width: 536px;
+	height: 190px;
+	display: inline-block;
+	margin: 0 0 0 16px;
+}
+.food-p-div{
+	width: 260px;
+	display: inline-block;
+	vertical-align: top;
+}
+.food {
+	font-size: 14px;
+	text-decoration: overline;
+	color: #5863F8;
+	padding: 38px 0 0 16px;
+	font-family: 'Poppins', sans-serif;
+}
+.fish {
+	font-size: 18px;
+	text-transform: uppercase;
+	font-style: oblique;
+	color: #000000;
+	padding: 0 0 0 16px;
+	font-family: 'Sofia Sans Extra Condensed';
+}
+.fresh {
+	font-size: 14px;
+	letter-spacing: 3px;
+	color: #B1B1B1;
+	width: 260px;
+	height: 62px;
+	padding: 11px 0 0 16px;
+}
+.desert-p-div {
+	width: 260px;
+	display: inline-block;
+	vertical-align: top;
+}
+.blog {
+	width: 36px;
+	height: 19px;
+	font-size: 14px;
+	color: #5863F8;
+	margin-top: 102px;
+	font-family: 'Poppins', sans-serif;
+}
+.read {
+	width: 404px;
+	height: 112px;
+	font-size: 42px;
+	color: #000000;
+	margin-top: 1px;
+	font-family: 'Sofia Sans Extra Condensed';
+}
+.life-div {
+	background: #F8F8F8;
+	width: 352px;
+	height: 360px;
+	display: inline-block;
+	margin-top: 69px;
+}
+.life-p-div {
+	width: 352px;
+	height: 148px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.food-life {
+	font-size: 14px;
+	color: #5863F8;
+	padding: 23px 0 0 124px;
+	font-family: 'Poppins', sans-serif;
+}
+.succed {
+	font-size: 18px;
+	font-style: italic;
+	color: #000000;
+	padding: 6px 0 0 79px;
+	font-family: 'Sofia Sans Extra Condensed';
+}
+.fresh-1 {
+	font-size: 14px;
+	text-transform: capitalize;
+	color: #B1B1B1;
+	width: 260px;
+	height: 42px;
+	margin: 11px 46px 23px 46px ;
+}
+.cooking-div {
+	background: #F8F8F8;
+	width: 352px;
+	height: 360px;
+	display: inline-block;
+	margin: 69px 0 0 16px;
+}
+.cooking-p-div {
+	width: 352px;
+	height: 148px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.fruits-div {
+	background: #F8F8F8;
+	width: 352px;
+	height: 360px;
+	display: inline-block;
+	margin: 69px 0 0 16px;
+}
+.fruits-p-div {
+	width: 352px;
+	height: 148px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.eat {
+	font-family: "Arial GEO", sans-serif;
+	margin-top: 20px;
+}
+.eat-1 {
+	font-family: 'BPG Glaho Bold';
+	margin: 20px 0 20px 0;
+}
